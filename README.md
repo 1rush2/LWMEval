@@ -12,7 +12,8 @@ FengWu：https://github.com/OpenEarthLab/FengWu
 graphcast：https://github.com/google-deepmind/graphcast
 
 
-## requirement
-jax==0.4.16 torch==2.3.0
+## Requirement
+我的模型是基于jax==0.4.16 torch==2.3.0，安装命令
+
 pip install requirements.txt
 
