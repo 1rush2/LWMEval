@@ -1,13 +1,14 @@
 # LWMEval
 模型参考链接：
-https://github.com/198808xc/Pangu-Weather
 
-https://github.com/tpys/FuXi
+pangu：https://github.com/198808xc/Pangu-Weather
 
-https://github.com/NVlabs/FourCastNet
+fuxi：https://github.com/tpys/FuXi
 
-https://github.com/OpenEarthLab/FengWu
+FourCastNet：https://github.com/NVlabs/FourCastNet
 
-https://github.com/google-deepmind/graphcast
+FengWu：https://github.com/OpenEarthLab/FengWu
+
+graphcast：https://github.com/google-deepmind/graphcast
 
 
